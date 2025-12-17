@@ -1,3 +1,3 @@
 # git_test
-Practising git
+Practising git.
 Hello Odin!
